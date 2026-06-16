@@ -56,23 +56,22 @@ O esqueleto vem com a estrutura pronta. Os locais que devem ser implementados pe
 | `cadastro.c` | `cadastrarSequencia()` | ✅ Pronta |
 | `cadastro.c` | `listarSequencias()` | ✅ Pronta |
 | `cadastro.c` | `buscarPorNome()` | ✅ Pronta |
-| `analise.c` | `calcularGC()` | ✅ Pronta (serve de exemplo) |
-| `analise.c` | **`contarBases()`** | ⚠️ **TODO** |
+| `analise.c` | `calcularGC()` | ✅ Pronta |
+| `analise.c` | **`contarBases()`** **| ✅ Pronta |
 
 ### Parte II — Intermediário (2,0 pts)
 
 | Arquivo | Função | Status |
 |---|---|---|
-| `analise.c` | **`buscarMotif()`** | ⚠️ **TODO** |
-| `ordenacao.c` | **`ordenarPorTamanho()`** | ⚠️ **TODO** |
-
+| `analise.c` | **`buscarMotif()`** | ✅ Pronta |
+| `ordenacao.c` | **`ordenarPorTamanho()`** | ✅ Pronta |
 ### Parte III — Avançado (2,0 pts)
 
 | Arquivo | Função | Status |
 |---|---|---|
-| `arquivo.c` | **`salvarArquivo()`** | ⚠️ **TODO** |
-| `arquivo.c` | **`carregarArquivo()`** | ⚠️ **TODO** |
-| `comparacao.c` | **`distanciaHamming()`** | ⚠️ **TODO** |
+| `arquivo.c` | **`salvarArquivo()`** | ✅ Pronta |
+| `arquivo.c` | **`carregarArquivo()`** | ✅ Pronta |
+| `comparacao.c` | **`distanciaHamming()`** | ✅ Pronta | 
 
 ---
 
